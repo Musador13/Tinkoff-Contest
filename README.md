@@ -5,8 +5,8 @@
 # **Решения задач вечного контеста тинькофф**.
 
 ## **Задачи**:
-- ### [A. Мобайл](https://github.com/Musador13/Tinkoff-Contest/blob/a52f88426ef650b9248453f5bd630aa4c676c0db/src/main/java/edu/tinkoff/taskA.md)
-- ### [B. Рулет]()
+- ### [A. Мобайл](./src/main/java/edu/tinkoff/taskA.md)
+- ### [B. Рулет](./src/main/java/edu/tinkoff/taskB.md)
 - ### [C. Лифты и перегородки]()
 - ### [D. Бумажка с числами]()
 - ### [E. Тестирование]()
