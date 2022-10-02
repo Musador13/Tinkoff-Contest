@@ -38,7 +38,6 @@ public class Exercise5 {
      * @return simply repunit of the degree.
      */
     public static long repUnit(int degree) {
-
         return (degreeTen(degree) - 1) / 9;
     }
 
