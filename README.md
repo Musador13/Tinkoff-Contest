@@ -7,9 +7,9 @@
 ## **Задачи**:
 - ### [A. Мобайл](./src/main/java/edu/tinkoff/taskA.md)
 - ### [B. Рулет](./src/main/java/edu/tinkoff/taskB.md)
-- ### [C. Лифты и перегородки]()
-- ### [D. Бумажка с числами]()
-- ### [E. Тестирование]()
+- ### [C. Лифты и перегородки](./src/main/java/edu/tinkoff/taskC.md)
+- ### [D. Бумажка с числами](./src/main/java/edu/tinkoff/taskD.md)
+- ### [E. Тестирование](./src/main/java/edu/tinkoff/taskE.md)
 
 # Required Skills
 - Java 8+
