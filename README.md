@@ -5,7 +5,7 @@
 ## Решения задач вечного тинькофф контеста
 
 1. Задачи
-    -[A]
+    -[A](https://github.com/Musador13/Tinkoff-Contest/blob/a52f88426ef650b9248453f5bd630aa4c676c0db/src/main/java/edu/tinkoff/taskA.md)
     -[B]
     -[C]
     -[D]
