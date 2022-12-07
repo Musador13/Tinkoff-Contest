@@ -24,4 +24,4 @@
 ---
 
 # License
-This project is Apache License 2.0 - see the [LICENSE](LICENSE.md) file for details
+This project is GNU General Public License v3.0 see the [LICENSE](LICENSE.md) file for details
