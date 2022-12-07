@@ -1,4 +1,4 @@
-[К оглавлению](https://github.com/Musador13/Tinkoff-Contest/blob/f98d25c8971dab353140cdf52174f6424137ffb4/README.md)
+[К оглавлению](https://github.com/Musador13/Tinkoff-Contest/blob/main/README.md)
 
 # Задача A. Мобайл.
 
