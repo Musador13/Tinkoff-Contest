@@ -1,3 +1,5 @@
+[К оглавлению](https://github.com/Musador13/Tinkoff-Contest/blob/main/README.md)
+
 # Задача В. Покраска.
 ![img_2.png](img_2.png)
 
