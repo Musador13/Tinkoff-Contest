@@ -1,5 +1,13 @@
-package edu.tinkoff_2;
+[К оглавлению](https://github.com/Musador13/Tinkoff-Contest/blob/main/README.md)
 
+# Задача C. Операции.
+![img_4.png](img_4.png)
+---
+# Решение
+![img_5.png](img_5.png)
+---
+# Код
+````java
 import static java.lang.Math.sqrt;
 
 import java.util.Arrays;
@@ -35,3 +43,5 @@ public class Ex3 {
         scanner.close();
     }
 }
+
+
