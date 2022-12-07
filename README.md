@@ -12,8 +12,8 @@
 - ### [E. Тестирование](./src/main/java/edu/tinkoff/taskE.md)
 
 ## **Задачи Тинькофф финтеха 2022**:
-- ### [A. Сумма](.src/main/java/edu/tinkoff_2/TaskA.md)
-- ### [B. Покраска](.src/main/java/edu/tinkoff_2/TaskB.md)
+- ### [A. Сумма](./src/main/java/edu/tinkoff_2/TaskA.md)
+- ### [B. Покраска](./src/main/java/edu/tinkoff_2/TaskB.md)
 
 
 # Required Skills
