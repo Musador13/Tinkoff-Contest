@@ -2,7 +2,7 @@
 
 ![87- Converted](https://www.cdn-tinkoff.ru/frontend-libraries/opengraph/opengraph.png)
 
-# **Решения задач вечного контеста тинькофф**.
+# **Решения задач по программированию от Тинькофф**.
 
 ## **Задачи пробного контеста**:
 - ### [A. Мобайл](./src/main/java/edu/tinkoff/taskA.md)
@@ -24,4 +24,4 @@
 ---
 
 # License
-This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
+This project is Apache License 2.0 - see the [LICENSE](LICENSE.md) file for details
